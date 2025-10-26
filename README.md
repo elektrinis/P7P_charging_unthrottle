@@ -6,6 +6,9 @@ What I did is I modified system file `/system/vendor/etc/thermal_info_config_cha
 Feel free to unzip the module and modify the temperatures as you wish.
 
 Here's an example of before and after:
-[images]
+
+![img1](/screenshot_before.png) ![img2](/screenshot_after.png)
+
+I've used CPU throttling test and covered the phone with a blanket to heat it up for this test. Charging power tapers off above 45C.
 
 Disclaimer: this modifies manufacturer's safety settings and, in theory, can be unsafe. Do this at your own risk. No guarantees or liability.
